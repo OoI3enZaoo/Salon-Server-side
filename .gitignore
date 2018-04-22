@@ -1,0 +1,5 @@
+serverapp/node_modules/
+serversocket/node_modules/
+serverupload/node_modules/
+serverweb/node_modules/
+*.key
